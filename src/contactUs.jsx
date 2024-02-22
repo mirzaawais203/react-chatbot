@@ -1,12 +1,12 @@
-
+import React from 'react'
 
 const contactUs = () => {
-    return (
-        <div>
+  return (
+    <div>
+        <button>Click Me!</button>
+        <div>contactUs</div>
+    </div>
 
-            
-
-        </div>
     )
 }
 
